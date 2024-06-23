@@ -3,6 +3,8 @@ I want to see what this looks like.
 # This is another header
 I want to see what this looks like too.
 
-I made a change to he `index.md` file to check different headers.
+``` javascript
+var myVar = "Hello";
+```
 
 ![Image of Skatercat](https://octodex.github.com/images/skatetocat.png)
